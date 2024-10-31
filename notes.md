@@ -87,6 +87,8 @@ htop
 
 Now we can inspect the process (e.g. how much of RAM, CPUs etc. are used). 
 
+*In the results of the LongQC, the QV had a value of 0. 
+
 ## Illumina short-reads QC 
 
 We will run the **fastp** package to remove adapters, duplicates and low quality bases of the Illumina short-reads:
